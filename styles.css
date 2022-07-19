@@ -5,6 +5,12 @@
 
     
 }
+.ooga{
+    font-family: 'Open Sans', sans-serif;
+}
+.booga{
+    font-family: 'Open Sans', sans-serif;
+}
 @media screen and (max-width: 600px) {
   .container {
     width: 100%;
@@ -54,6 +60,7 @@
 .text1{
     font-size: 15px;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
 .title{
     display: flex;
